@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-09_1231",
+    "name": "MMCC",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -50,7 +50,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Mitsubishi Mirage Car Club",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
